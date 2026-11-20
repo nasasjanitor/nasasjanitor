@@ -1,6 +1,45 @@
-- 👋 Hi, I’m Ellie.
+# 🐾 Hi, I'm Ellie
 
-- 🌱 I am a CS graduate with hands-on experience in data cleaning, data analysis, validation and structured reporting. My main knowledge currently lies in Python, SQL, pandas and NumPy.
+Computer Science graduate interested in **data analysis, data quality, software development, and practical problem-solving**.
+
+I enjoy working with structured data, investigating inconsistencies, building repeatable solutions and learning how technology can improve real-world processes.
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, SQL
+- **Data:** pandas, NumPy, Jupyter
+- **Development:** Git, GitHub
+- **Foundations:** Software Engineering, Databases, Algorithms, Data Structures, Data Analysis
+- **Currently exploring:** HTML/CSS, BI, data engineering, QA/testing and AI-assisted workflows
+
+## 📊 Featured Project
+
+### ☄️ Meteorite Landings — Data Validation & Quality Review
+
+A Python-based data analysis project focused on cleaning and validating a structured meteorite dataset.
+
+Key work included:
+- identifying missing, invalid and inconsistent records
+- creating repeatable validation rules and programmatic checks
+- investigating anomalous values and edge cases
+- documenting the methodology for reproducibility and review
+
+## 🌱 What I'm Working On
+
+I'm currently expanding my portfolio through small practical projects across data, software and productivity tools, with a focus on learning by building.
+
+Current areas of interest include:
+- Data analysis and reporting
+- Data quality and validation
+- Software testing and QA
+- Business and operational systems
+- AI-assisted tools and workflows
+
+## 📫 Connect
+
+I'm currently based in Bulgaria and open to opportunities in data, operations and technology.
+
+[LinkedIn](YOUR-LINKEDIN-URL)
 
 <!---
 nasasjanitor/nasasjanitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
